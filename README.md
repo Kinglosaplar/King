@@ -141,7 +141,7 @@ end
 
 local AnimAnim = Instance.new("Animation")
 
-AnimAnim.AnimationId = "rbxassetid://13560306510"
+AnimAnim.AnimationId = "rbxassetid://13073745835"
 
 local Anim = Humanoid:LoadAnimation(AnimAnim)
 
@@ -856,3 +856,4 @@ tL.Font = Enum.Font.Arcade
 tL.TextScaled = true -- scale
 tL.TextTransparency = 0.9 --opaque
 tL.Parent = sG
+ 
